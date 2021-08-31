@@ -11,6 +11,8 @@ Max Tree Depth (Step Number) = 15
 
 Search Algorithm = 'astar'
 
+---
+
 Result Steps = 
 [[1 2 3]
  [5 7 6]
